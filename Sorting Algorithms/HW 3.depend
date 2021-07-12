@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1616256841 source:c:\users\gabys\desktop\computer science 1\hw 3\integer-sorts-template.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<limits.h>
+	<string.h>
+	<time.h>
+
+1616179162 source:c:\users\gabys\desktop\computer science 1\hw 3\mergeexample.c
+	<stdio.h>
+	<stdlib.h>
+
+1616180022 source:c:\users\gabys\desktop\computer science 1\hw 3\mergeexample2(nosublists).c
+
+1616369032 source:c:\users\gabys\desktop\computer science 1\hw 3\monster-sorts-template.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<limits.h>
+	<string.h>
+	<time.h>
+	"leak_detector_c.h"
+
+1611084341 source:c:\users\gabys\desktop\computer science 1\hw 3\leak_detector_c.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"leak_detector_c.h"
+
+1611081619 c:\users\gabys\desktop\computer science 1\hw 3\leak_detector_c.h
+
+1617996753 source:c:\users\gabys\desktop\computer science 1\hw 3\cop3502-as3-shamblin-gabriela.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<limits.h>
+	<string.h>
+	<time.h>
+	"leak_detector_c.h"
+

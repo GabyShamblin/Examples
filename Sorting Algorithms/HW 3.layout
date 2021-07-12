@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="cop3502-as3-shamblin-gabriela.c" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1157" topLine="6" />
+		</Cursor>
+		<Folding>
+			<Collapse line="16" />
+			<Collapse line="25" />
+			<Collapse line="44" />
+			<Collapse line="53" />
+			<Collapse line="58" />
+			<Collapse line="68" />
+			<Collapse line="91" />
+			<Collapse line="105" />
+			<Collapse line="121" />
+			<Collapse line="161" />
+			<Collapse line="176" />
+			<Collapse line="196" />
+			<Collapse line="243" />
+			<Collapse line="274" />
+			<Collapse line="304" />
+			<Collapse line="331" />
+			<Collapse line="356" />
+			<Collapse line="380" />
+			<Collapse line="453" />
+			<Collapse line="470" />
+			<Collapse line="495" />
+			<Collapse line="513" />
+		</Folding>
+	</File>
+	<EditorTabsLayout layout="090585d06070bd010013c1f400000002=1;HW 3:cop3502-as3-shamblin-gabriela.c@layout2|name=dummy;caption=;state=2098174;dir=3;layer=0;row=0;pos=0;prop=100000;bestw=843;besth=360;minw=843;minh=360;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=090585d06070bd010013c1f400000002;caption=;state=2098172;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=250;besth=250;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(5,0,0)=252|" />
+</CodeBlocks_layout_file>
