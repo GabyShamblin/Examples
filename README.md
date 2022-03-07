@@ -4,8 +4,7 @@ Java:
 
 
 C:
-- An in-class project from Computer Science I
-- Some basic sorting algorithms (also from CS I)
+- Some basic sorting algorithms
   
   
 Python:
